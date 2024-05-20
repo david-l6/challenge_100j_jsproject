@@ -66,6 +66,12 @@ input[type="color"]::-moz-color-swatch {
     border: 4px solid #000;
 }
 
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
 .gridCol{
     height: 1em;
     width: 1em;
